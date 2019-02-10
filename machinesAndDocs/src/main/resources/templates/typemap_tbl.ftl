@@ -2,8 +2,8 @@
   <table class="table table-sm table-hover" >
     <thead>
       <tr>
-        <th scope="col">NR</th>
-        <th scope="col">NAAM</th>	
+        <th scope="col" data-sort="string">NR</th>
+        <th scope="col" data-sort="string">NAAM</th>	
       </tr>
     </thead>
 	<tbody>

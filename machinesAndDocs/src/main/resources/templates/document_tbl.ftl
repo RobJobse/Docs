@@ -2,13 +2,13 @@
 	<table class="table table-sm table-hover">
 	  <thead>
 		 <tr>
-			<th scope="col">NR</th>
-			<th scope="col">SOORT</th>
-			<th scope="col">OMSCHRIJVING</th>
-			<th scope="col">PARAAF</th>			
-			<th scope="col">DATUM</th>				
-			<th scope="col">LOCATIE</th>	
-			<th scope="col">AFGELEID</th>		
+			<th scope="col" data-sort="string">NR</th>
+			<th scope="col" data-sort="string">SOORT</th>
+			<th scope="col" data-sort="string">OMSCHRIJVING</th>
+			<th scope="col" data-sort="string">PARAAF</th>			
+			<th scope="col" data-sort="string">DATUM</th>				
+			<th scope="col" data-sort="string">LOCATIE</th>	
+			<th scope="col" data-sort="string">AFGELEID</th>		
 		 </tr>
 	  </thead>
 	  <tbody>
